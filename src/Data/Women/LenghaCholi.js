@@ -180,7 +180,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/r/8/u/free-half-sleeve-mjo4061-mjo-fashion-original-imagmyk9yxpykc7j.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/k09vv680/lehenga-choli/c/b/9/free-shraddha-008-xenilla-original-imafk3mkx6hhkfy5.jpeg?q=70",
     "brand": "mjo fashion",
    "title": "Embroidered Semi Stitched Lehenga Choli",
     "color": "Maroon",
@@ -205,7 +205,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/3/d/1/l-half-sleeve-na-lh-mamta-fashion-hub-original-imagz6fhx79zcy7g.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/kzvlua80/lehenga-choli/i/y/w/free-3-4-sleeve-knsh24707-manvaa-original-imagbshccavg6uwd.jpeg?q=70",
     "brand": "rashora",
    "title": "Self Design Semi Stitched Lehenga Choli",
     "color": "Gold, Orange",
@@ -230,7 +230,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/sari/j/f/n/free-verveecouture-vv-126-vervee-couture-unstitched-original-imagnhgjmgrth4xr.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/lehenga-choli/b/7/o/free-sleeveless-076-nj-xenilla-original-imagr3pghfvzcerj.jpeg?q=70",
     "brand": "Vervee Couture",
    "title": "Embroidered Semi Stitched Lehenga Choli",
     "color": "Blue",
@@ -255,7 +255,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/z/c/c/free-short-sleeve-sochncugc5604-soch-original-imaghy7nebe4jzhn.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/ks0onm80/lehenga-choli/t/h/r/free-half-sleeve-lehenga-cholis-swastik-purvaja-original-imag5zk6yzdt8g3f.jpeg?q=70",
     "brand": "soch",
    "title": "Embroidered Semi Stitched Lehenga Choli",
     "color": "Maroon",
@@ -280,7 +280,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/m/d/c/free-short-sleeve-women-satin-red-lehenga-choli-set-for-wedding-original-imagn8kzjrfakvsu.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/lehenga-choli/f/f/h/free-3-4-sleeve-dhratsi-surat-trendz-original-imagvxxzujn6t8tg.jpeg?q=70",
     "brand": "kajtosh",
    "title": "Embroidered Semi Stitched Lehenga Choli",
     "color": "Red",
