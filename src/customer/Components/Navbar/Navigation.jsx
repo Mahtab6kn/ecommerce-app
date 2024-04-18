@@ -70,6 +70,7 @@ export default function Navigation() {
   const handleLogout = () => {
     handleCloseUserMenu();
     dispatch(logout());
+    navigate('/');
   };
   const handleMyOrderClick=()=>{
     handleCloseUserMenu()
