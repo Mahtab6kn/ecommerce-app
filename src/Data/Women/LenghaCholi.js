@@ -155,7 +155,7 @@ export const lengha_page1 = [
  
 {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/l16rde80/lehenga-choli/h/r/t/free-3-4-sleeve-r1-5-aminia-original-imagct7ghhpgrm48.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-lehenga-choli/p/r/w/14-15-years-small-000000254-creze-original-imaggsaynwgvfzgw.jpeg?q=70",
     "brand": "AMINIA",
    "title": "Embroidered Semi Stitched Lehenga Choli",
     "color": "Maroon",
